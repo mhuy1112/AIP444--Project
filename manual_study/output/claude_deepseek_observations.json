@@ -1,0 +1,122 @@
+[
+  {
+    "question_id": "q01",
+    "platform": "Claude",
+    "answer": "66",
+    "recorded_at": "2026-11-17T22:23:55.126Z"
+  },
+  {
+    "question_id": "q01",
+    "platform": "DeepSeek",
+    "answer": "66",
+    "recorded_at": "2026-11-17T22:23:55.140Z"
+  },
+  {
+    "question_id": "q02",
+    "platform": "Claude",
+    "answer": "5",
+    "recorded_at": "2026-11-17T22:24:47.087Z"
+  },
+  {
+    "question_id": "q02",
+    "platform": "DeepSeek",
+    "answer": "5",
+    "recorded_at": "2026-11-17T22:24:47.087Z"
+  },
+  {
+    "question_id": "q03",
+    "platform": "Claude",
+    "answer": "Sum 1..100 = 5050.\nMultiples of 3: 3·(33·34/2)=3·561=1683.\nMultiples of 5: 5·(20·21/2)=5·210=1050.\nMultiples of 15: 15·(6·7/2)=15·21=315.\n\n5050 − 1683 − 1050 + 315 = 2632\n\n2632",
+    "recorded_at": "2026-11-17T22:25:02.732Z"
+  },
+  {
+    "question_id": "q03",
+    "platform": "DeepSeek",
+    "answer": "5050 - (sum of multiples of 3) - (sum of multiples of 5) + (sum of multiples of 15)\n\nSum 1..100 = 5050\nMultiples of 3: 3+6+...+99 = 3(1+...+33) = 3561 = 1683\nMultiples of 5: 5+10+...+100 = 5(1+...+20) = 5210 = 1050\nMultiples of 15: 15+30+...+90 = 15(1+...+6) = 1521 = 315\n\n5050 - 1683 - 1050 + 315 = 2632\n\n2632",
+    "recorded_at": "2026-11-17T22:25:02.732Z"
+  },
+  {
+    "question_id": "q04",
+    "platform": "Claude",
+    "answer": "Compute 7^103 mod 13. Since 13 is prime, 7^12 ≡ 1 (mod 13), so reduce the exponent: 103 mod 12 = 7 (103 = 8·12 + 7). That leaves 7^7 mod 13.\n\n7^2 = 49 ≡ 10\n7^4 ≡ 10^2 = 100 ≡ 9\n7^6 ≡ 9 · 10 = 90 ≡ 12\n7^7 ≡ 12 · 7 = 84 ≡ 6 (since 84 = 78 + 6)\n\n6",
+    "recorded_at": "2026-11-17T22:25:45.240Z"
+  },
+  {
+    "question_id": "q04",
+    "platform": "DeepSeek",
+    "answer": "7",
+    "recorded_at": "2026-11-17T22:25:45.242Z"
+  },
+  {
+    "question_id": "q05",
+    "platform": "Claude",
+    "answer": "Total paths: C(8,4) = 70.\nPaths through (2,2): C(4,2) × C(4,2) = 6 × 6 = 36.\n70 − 36 = 34.\n\n34",
+    "recorded_at": "2026-11-17T22:26:19.139Z"
+  },
+  {
+    "question_id": "q05",
+    "platform": "DeepSeek",
+    "answer": "70",
+    "recorded_at": "2026-11-17T22:26:19.139Z"
+  },
+  {
+    "question_id": "q06",
+    "platform": "Claude",
+    "answer": "The count of binary strings of length n with no two adjacent 1s is F(n+2), where F(1) = F(2) = 1.\n\nFor n = 8 this is F(10) = 55.\n\n55",
+    "recorded_at": "2026-11-17T22:26:29.697Z"
+  },
+  {
+    "question_id": "q06",
+    "platform": "DeepSeek",
+    "answer": "55",
+    "recorded_at": "2026-11-17T22:26:29.697Z"
+  },
+  {
+    "question_id": "q07",
+    "platform": "Claude",
+    "answer": "2",
+    "recorded_at": "2026-11-17T22:26:43.542Z"
+  },
+  {
+    "question_id": "q07",
+    "platform": "DeepSeek",
+    "answer": "2",
+    "recorded_at": "2026-11-17T22:26:43.543Z"
+  },
+  {
+    "question_id": "q08",
+    "platform": "Claude",
+    "answer": "Treat C and D as a single block, which can be ordered 2 ways internally (CD or DE... i.e., CD or DC).\n\nThat leaves 4 units to arrange: A, B, E, and the block. There are 4! = 24 arrangements of these units.\n\nA comes before B in exactly half of them, so 12.\n\nMultiplying by the 2 internal orderings of the block gives 12 × 2 = 24.\n\n24",
+    "recorded_at": "2026-11-17T22:26:55.965Z"
+  },
+  {
+    "question_id": "q08",
+    "platform": "DeepSeek",
+    "answer": "30",
+    "recorded_at": "2026-11-17T22:26:55.965Z"
+  },
+  {
+    "question_id": "q09",
+    "platform": "Claude",
+    "answer": "n ≡ 2 mod 3, n ≡ 3 mod 5, n ≡ 2 mod 7.\n\nn ≡ 2 mod 21 (from mod 3 and mod 7), so n = 2, 23, 44, 65, 86, ...\nCheck mod 5 = 3: 2→2, 23→3 ✓.\n\n23",
+    "recorded_at": "2026-11-17T22:27:09.481Z"
+  },
+  {
+    "question_id": "q09",
+    "platform": "DeepSeek",
+    "answer": "23",
+    "recorded_at": "2026-11-17T22:27:09.481Z"
+  },
+  {
+    "question_id": "q10",
+    "platform": "Claude",
+    "answer": "27",
+    "recorded_at": "2026-11-17T22:27:29.786Z"
+  },
+  {
+    "question_id": "q10",
+    "platform": "DeepSeek",
+    "answer": "45",
+    "recorded_at": "2026-11-17T22:27:29.786Z"
+  }
+]

@@ -1,0 +1,5 @@
+﻿platform,model_or_mode,planned,recorded,pending,completed,errors,correct,accuracy_recorded_pct,numeric_format_errors,timed_completed,mean_seconds,paired_questions,paired_accuracy_pct,paired_timed_questions,paired_mean_seconds
+ChatGPT,Default - signed out; model version unknown,10,10,0,10,0,10,100.0,0,0,,10,100.0,0,
+Gemini,Flash-Lite - signed out; version not displayed,10,10,0,10,0,10,100.0,0,0,,10,100.0,0,
+Claude,Sonnet 5.5 - Medium; signed in,10,10,0,10,0,4,40.0,6,0,,10,40.0,0,
+DeepSeek,Unknown version - DeepThink off; Search state not controlled; signed in,10,10,0,10,0,5,50.0,1,0,,10,50.0,0,

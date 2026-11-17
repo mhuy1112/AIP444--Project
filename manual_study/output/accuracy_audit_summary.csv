@@ -1,0 +1,5 @@
+﻿platform,completed,primary_pass,format_errors,final_numeric_correct_posthoc
+ChatGPT,10,10,0,10
+Gemini,10,10,0,10
+Claude,10,4,6,10
+DeepSeek,10,5,1,6

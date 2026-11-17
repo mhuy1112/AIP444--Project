@@ -1,0 +1,110 @@
+[
+  {
+    "question_id": "q02",
+    "platform": "ChatGPT",
+    "answer": "5",
+    "recorded_at": "2026-11-17T22:05:25.752Z"
+  },
+  {
+    "question_id": "q02",
+    "platform": "Gemini",
+    "answer": "5",
+    "recorded_at": "2026-11-17T22:05:25.774Z"
+  },
+  {
+    "question_id": "q03",
+    "platform": "ChatGPT",
+    "answer": "2632",
+    "recorded_at": "2026-11-17T22:06:02.018Z"
+  },
+  {
+    "question_id": "q03",
+    "platform": "Gemini",
+    "answer": "2632",
+    "recorded_at": "2026-11-17T22:06:33.298Z"
+  },
+  {
+    "question_id": "q04",
+    "platform": "ChatGPT",
+    "answer": "6",
+    "recorded_at": "2026-11-17T22:06:41.273Z"
+  },
+  {
+    "question_id": "q05",
+    "platform": "ChatGPT",
+    "answer": "34",
+    "recorded_at": "2026-11-17T22:07:47.249Z"
+  },
+  {
+    "question_id": "q05",
+    "platform": "Gemini",
+    "answer": "34",
+    "recorded_at": "2026-11-17T22:08:32.955Z"
+  },
+  {
+    "question_id": "q06",
+    "platform": "ChatGPT",
+    "answer": "55",
+    "recorded_at": "2026-11-17T22:09:07.318Z"
+  },
+  {
+    "question_id": "q06",
+    "platform": "Gemini",
+    "answer": "55",
+    "recorded_at": "2026-11-17T22:09:26.638Z"
+  },
+  {
+    "question_id": "q07",
+    "platform": "Gemini",
+    "answer": "2",
+    "recorded_at": "2026-11-17T22:09:33.478Z"
+  },
+  {
+    "question_id": "q07",
+    "platform": "ChatGPT",
+    "answer": "2",
+    "recorded_at": "2026-11-17T22:09:52.153Z"
+  },
+  {
+    "question_id": "q08",
+    "platform": "Gemini",
+    "answer": "24",
+    "recorded_at": "2026-11-17T22:10:27.598Z"
+  },
+  {
+    "question_id": "q08",
+    "platform": "ChatGPT",
+    "answer": "24",
+    "recorded_at": "2026-11-17T22:10:45.568Z"
+  },
+  {
+    "question_id": "q09",
+    "platform": "Gemini",
+    "answer": "23",
+    "recorded_at": "2026-11-17T22:11:26.158Z"
+  },
+  {
+    "question_id": "q10",
+    "platform": "Gemini",
+    "answer": "27",
+    "recorded_at": "2026-11-17T22:11:47.824Z"
+  },
+  {
+    "question_id": "q09",
+    "platform": "ChatGPT",
+    "answer": "23",
+    "recorded_at": "2026-11-17T22:11:47.824Z"
+  },
+  {
+    "question_id": "q10",
+    "platform": "ChatGPT",
+    "answer": "27",
+    "recorded_at": "2026-11-17T22:12:15.069Z"
+  },
+  {
+    "question_id": "q04",
+    "platform": "Gemini",
+    "answer": "6",
+    "recorded_at": "2026-11-17T22:12:37.708Z"
+  }
+]
